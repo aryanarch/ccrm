@@ -1,4 +1,4 @@
-if u# Campus Course & Records Manager (CCRM)
+# Campus Course & Records Manager (CCRM)
 
 A comprehensive Java SE console application for managing campus course records, built with modern Java features and OOP principles.
 
