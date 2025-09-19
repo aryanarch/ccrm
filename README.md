@@ -1,8 +1,8 @@
-# Campus Course & Records Manager (CCRM)
+if u# Campus Course & Records Manager (CCRM)
 
 A comprehensive Java SE console application for managing campus course records, built with modern Java features and OOP principles.
 
-## 📋 Project Overview
+## Project Overview
 
 The Campus Course & Records Manager (CCRM) is a console-based Java application that provides complete management functionality for:
 - **Student Management**: Add, update, deactivate, and track students
@@ -11,7 +11,7 @@ The Campus Course & Records Manager (CCRM) is a console-based Java application t
 - **File Operations**: Import/export data via CSV and automated backup system
 - **Reports**: Generate GPA distributions and top student rankings
 
-## 🚀 Evolution of Java
+## Evolution of Java
 
 ### Timeline of Major Java Versions
 - **1995**: Java 1.0 - "Write Once, Run Anywhere" concept introduced
@@ -27,7 +27,7 @@ The Campus Course & Records Manager (CCRM) is a console-based Java application t
 - **2021**: Java 17 - LTS release, sealed classes, pattern matching for switch
 - **2023**: Java 21 - LTS release, virtual threads, record patterns
 
-## 🏗️ Java Architecture Comparison
+## Java Architecture Comparison
 
 ### Java Editions Overview
 
@@ -70,7 +70,7 @@ The Campus Course & Records Manager (CCRM) is a console-based Java application t
 **JRE**: Runtime environment for executing Java applications
 **JVM**: Virtual machine that executes bytecode, providing platform independence
 
-## 🛠️ Installation & Setup
+## 🛠Installation & Setup
 
 ### Prerequisites
 - Windows 10/11
@@ -125,7 +125,7 @@ The Campus Course & Records Manager (CCRM) is a console-based Java application t
    - Main class: `edu.ccrm.cli.MainMenu`
    - Apply → Run
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 CCRM/
@@ -173,7 +173,7 @@ CCRM/
 └── USAGE.md
 ```
 
-## 🎯 Feature Mapping Table
+## Feature Mapping Table
 
 | Syllabus Topic | File/Class/Method | Description |
 |---------------|-------------------|-------------|
@@ -212,7 +212,7 @@ CCRM/
 | Strings | `UtilClass.java` | substring, split, join, equals |
 | Arrays | `AdvancedUtilities.java` | Array operations and utilities |
 
-## 🚀 Running the Application
+##  Running the Application
 
 ### Compilation
 ```bash
@@ -283,7 +283,7 @@ After sorting by name:
 Binary search for ID 2: Found at index 1
 ```
 
-## 🧪 Testing & Validation
+## Testing & Validation
 
 ### Enabling Assertions
 ```bash
@@ -292,11 +292,11 @@ java -ea -cp bin edu.ccrm.cli.MainMenu
 ```
 
 ### Test Coverage
-- ✅ **Unit Tests**: Individual component testing
-- ✅ **Integration Tests**: Service layer interactions
-- ✅ **System Tests**: End-to-end CLI workflows
-- ✅ **Edge Cases**: Error conditions and boundary values
-- ✅ **Performance Tests**: Large dataset handling
+-  **Unit Tests**: Individual component testing
+-  **Integration Tests**: Service layer interactions
+-  **System Tests**: End-to-end CLI workflows
+-  **Edge Cases**: Error conditions and boundary values
+-  **Performance Tests**: Large dataset handling
 
 ### Sample Test Commands
 ```bash
@@ -327,14 +327,14 @@ java -cp bin TestSuite
 ### Backup System
 ![Backup Creation](screenshots/backup_demo.png)
 
-## 🎓 Academic Integrity
+## Academic Integrity
 
 This project was developed following the problem statement requirements. All code is original implementation demonstrating Java concepts taught in the syllabus. References used:
 - Oracle Java Documentation
 - Java API Specifications
 - Design Patterns literature
 
-## 📞 Support
+##  Support
 
 For issues or questions:
 1. Check the comprehensive test suite output
@@ -342,7 +342,7 @@ For issues or questions:
 3. Ensure all source files are properly compiled
 4. Review the troubleshooting section in USAGE.md
 
-## 🔄 Future Enhancements
+## Future Enhancements
 
 - GUI interface using JavaFX
 - Database integration with JPA
